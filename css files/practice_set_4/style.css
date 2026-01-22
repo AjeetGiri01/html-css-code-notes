@@ -1,0 +1,38 @@
+.contentBox {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    /* display: inline-block; */
+}
+#navbar {
+    height: 60px;
+    background-color: #0f1111;
+    /* position: fixed;
+    top: 1px; */
+}
+#b2 {
+    background-color: #f08804;
+}
+#logo {
+    color: #f08804;
+    font-size: 25px;
+    text-decoration: none;
+}
+input {
+    color: black;
+}
+a {
+    margin-right: 150px;
+    color: white;
+}
+#content {
+    height: 500px;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100vw;
+}
